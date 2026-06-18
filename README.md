@@ -80,7 +80,7 @@ MST provides concrete, testable invariant mass targets for next-generation colli
 | **Excited Tetraquark $T_{cc}^{**}$** | $n = 2.0$ | **$4778 \pm 50$ MeV** | $T_{cc}^{**} \rightarrow D^*D^*\pi$, $D^0 D^0 \pi^+$ | LHCb Run 4+, Belle II |
 | **Flavor-Blind Node** | Stability slot | **$\sim 3619$ MeV** | Independent of heavy/light flavor | Any tracking detector |
 
-**The Flavor-Blind Degeneracy Hypothesis:** MST predicts that the $\mathbb{Z}_6$ substrate enforces rigid mass slots regardless of flavor content. Strikingly, the predicted light-flavor $d^{}$ hexaquark ($3619$ MeV) aligns within **$0.07\%$** (a 2.66 MeV difference) with the empirically known doubly charmed baryon $\Xi_{cc}^{++}$ ($3621.40 \pm 0.78$ MeV) discovered by LHCb.
+**The Flavor-Blind Degeneracy Hypothesis:** MST predicts that the ℤ₆ substrate enforces rigid mass slots regardless of flavor content. Strikingly, the predicted light-flavor d hexaquark (3619 MeV) aligns within 0.07% (a 2.66 MeV difference) with the empirically known doubly charmed baryon Ξcc++ (3621.40 ± 0.78 MeV) discovered by LHCb.
 
 ---
 
@@ -113,7 +113,7 @@ To run the interactive analysis script locally or in the cloud, click the badge 
   year = {2026},
   journal = {Zenodo},
   url = {https://github.com/NachoPeinador/mst-hadronic-spectrum},
-  doi = {10.5281/zenodo.20546608}
+  doi = {10.5281/zenodo.20748077}
 }
 
 ```
@@ -133,6 +133,4 @@ To run the interactive analysis script locally or in the cloud, click the badge 
 
 * ✉️ joseignacio.peinador@gmail.com
 
----
 
-¡Listo! Con esto tu repositorio de GitHub tiene una presentación espectacular, profesional y alineada con los mejores repositorios de física cuántica y altas energías del mundo.
