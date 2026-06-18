@@ -75,6 +75,12 @@ Multi-quark systems map precisely onto integer and fractional nodes of the compr
 
 ---
 
+<p align="center">
+  <img src="Images/mst_hadronic_predictions.png" alt="MST Validation and Predictions" width="100%">
+  <br>
+  <em>Figure 1: (Left) Extracted experimental compression factor Γ from PDG 2024 data converging towards the MST baseline of β = 0.75. (Right) Invariant mass distribution of fundamental exotics and their predicted higher radial excitations.</em>
+</p>
+
 ## 🔮 Falsifiable Quantitative Predictions
 
 MST provides concrete, testable invariant mass targets for next-generation collider experiments (LHCb Run 4+, Belle II, J-PARC, NICA, and the EIC):
