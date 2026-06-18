@@ -4,6 +4,11 @@
 
 ### *A hadronic spectroscopy framework based on the discrete ℤ₆⁽¹⁾ vacuum symmetry that derives universal confinement and multiquark taxonomy from first principles.*
 
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20748077.svg)](https://doi.org/10.5281/zenodo.20748077)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452) 
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/mst-hadronic-spectrum/blob/main/Paper/MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.pdf)
+
 ---
 
 ## 🚨 The Exotic Hadron Challenge
@@ -90,15 +95,17 @@ All spectroscopic calculations, data tables, and statistical validations are tra
 
 ```text
 mst-hadronic-spectrum/
-├── MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.pdf        # Main Manuscript (Preprint)
-├── MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.tex        # LaTeX Source Code
-├── MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.ipynb      # Python Executable Notebook
-├── MST-Modular_Confinement_and_the_Universal_Hadronic_Spectrum - Colab.pdf # Static Notebook Export with Outputs
-└── mst_hadronic_predictions.png                                           # High-Res Unified Plot
+├── Paper/      MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.pdf         # Main Manuscript (Preprint)
+├               MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.tex         # LaTeX Source Code
+├── Notebooks/  MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.ipynb       # Python Executable Notebook
+├               MST-Modular_Confinement_and_the_Universal_Hadronic_Spectrum - Colab.pdf # Static Notebook Export with Outputs
+└── Images/     mst_hadronic_predictions.png                                            # High-Res Unified Plot
 
 ```
 
-To run the interactive analysis script locally or in the cloud, click the badge below:
+To verify the calculations locally, clic and run the Jupyter Notebook:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Mmst-hadronic-spectrum/blob/main/Notebooks/MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.ipynb)
 
 ---
 
