@@ -101,12 +101,14 @@ All spectroscopic calculations, data tables, and statistical validations are tra
 
 ```text
 mst-hadronic-spectrum/
-├── Paper/      MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.pdf         # Main Manuscript (Preprint)
-├               MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.tex         # LaTeX Source Code
-├── Notebooks/  MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.ipynb       # Python Executable Notebook
-├               MST-Modular_Confinement_and_the_Universal_Hadronic_Spectrum - Colab.pdf # Static Notebook Export with Outputs
-└── Images/     mst_hadronic_predictions.png                                            # High-Res Unified Plot
-
+├── Paper/
+│   ├── MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.pdf        # Main Manuscript (Preprint)
+│   └── MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.tex        # LaTeX Source Code
+├── Notebooks/
+│   ├── MST_Modular_Confinement_and_the_Universal_Hadronic_Spectrum.ipynb      # Python Executable Notebook
+│   └── MST-Modular_Confinement_and_the_Universal_Hadronic_Spectrum_Colab.pdf  # Static Notebook Export
+└── Images/
+    └── mst_hadronic_predictions.png                                           # High-Res Unified Plot
 ```
 
 To verify the calculations locally, clic and run the Jupyter Notebook:
